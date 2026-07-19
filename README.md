@@ -136,16 +136,26 @@ print(me.say_hi())
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=abubakerDevOps&show_icons=true&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a&hide_border=false" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abubakerDevOps&layout=compact&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=abubakerDevOps&theme=tokyonight&border=0ea5e9&ring=0ea5e9&fire=0ea5e9&background=0f172a" width="60%"/>
-
-<img src="https://trophy.benkou.dev/?username=abubakerDevOps&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" width="80%"/>
-
-</div>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=abubakerDevOps&show_icons=true&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a&hide_border=false" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abubakerDevOps&layout=compact&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" width="100%"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://streak-stats.demolab.com/?user=abubakerDevOps&theme=tokyonight&border=0ea5e9&ring=0ea5e9&fire=0ea5e9&background=0f172a" width="70%"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://trophy.benkou.dev/?username=abubakerDevOps&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" width="90%"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
