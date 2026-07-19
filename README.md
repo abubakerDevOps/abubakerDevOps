@@ -23,48 +23,65 @@
 
 ## 👋 About Me
 
-I'm a Data Science student at **Forman Christian College** currently interning as a **Data Analytics & Python Intern at Decodelabs**. I enjoy turning messy data into clear, actionable insights — with a focus on exploratory data analysis, statistics, and building practical Python tools from the ground up.
+```bash
+abubaker@devops:~$ whoami
+Abubaker Imran — Data Analytics & Python Intern @ Decodelabs
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎓 Education**
+abubaker@devops:~$ cat education.txt
 Data Science Student, Forman Christian College (A Chartered University)
 
-**💼 Currently**
-Data Analytics & Python Intern @ Decodelabs
-
-</td>
-<td width="50%" valign="top">
-
-**🌱 Focus Areas**
+abubaker@devops:~$ cat focus_areas.txt
 Exploratory Data Analysis · Statistics · Applied Python
 
-**🎯 Looking For**
+abubaker@devops:~$ cat currently_looking_for.txt
 Internships & entry-level roles in Data Analytics / Data Science
 
-</td>
-</tr>
-</table>
+abubaker@devops:~$ _
+```
 
 <br/>
 
-## 🧰 Skills
+## 🧰 Tech Stack
 
 <table>
 <tr>
-<td valign="top" width="25%"><b>Languages</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java&perline=4"/>
+<td valign="top" width="25%">
+
+**Languages**
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 </td>
-<td valign="top" width="25%"><b>Web Fundamentals</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css&perline=4"/>
+<td valign="top" width="25%">
+
+**Web Fundamentals**
+<br/><br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 </td>
-<td valign="top" width="25%"><b>Data & AI Tools</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=sklearn,anaconda,tensorflow,pytorch,opencv&perline=5"/>
+<td valign="top" width="25%">
+
+**Data & AI**
+<br/><br/>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
 </td>
-<td valign="top" width="25%"><b>Dev Tools</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=4"/>
+<td valign="top" width="25%">
+
+**Dev Tools**
+<br/><br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </td>
 </tr>
 </table>
