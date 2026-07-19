@@ -23,21 +23,32 @@
 
 ## 👋 About Me
 
-```bash
-abubaker@devops:~$ whoami
-Abubaker Imran — Data Analytics & Python Intern @ Decodelabs
+```python
+class AbubakerImran:
+    def __init__(self):
+        self.role         = "Data Analytics & Python Intern @ Decodelabs"
+        self.education    = "Data Science Student @ Forman Christian College"
+        self.location     = "Lahore, Pakistan"
+        self.focus_areas  = ["Exploratory Data Analysis", "Statistics", "Applied Python"]
+        self.languages    = ["Python", "C", "C++", "Java"]
+        self.looking_for  = "Internships & entry-level Data Analytics / Data Science roles"
 
-abubaker@devops:~$ cat education.txt
-Data Science Student, Forman Christian College (A Chartered University)
+    def say_hi(self):
+        return "Thanks for stopping by — let's build something with data. 🚀"
 
-abubaker@devops:~$ cat focus_areas.txt
-Exploratory Data Analysis · Statistics · Applied Python
 
-abubaker@devops:~$ cat currently_looking_for.txt
-Internships & entry-level roles in Data Analytics / Data Science
-
-abubaker@devops:~$ _
+me = AbubakerImran()
+print(me.say_hi())
 ```
+
+<div align="center">
+
+🔭 **Currently working on:** sharpening EDA & statistics through hands-on Python projects
+🌱 **Currently exploring:** ML frameworks — scikit-learn, TensorFlow, PyTorch
+💬 **Ask me about:** Python, data cleaning, CRUD apps, Tkinter GUIs
+📫 **Reach me at:** abubaker261142@gmail.com
+
+</div>
 
 <br/>
 
