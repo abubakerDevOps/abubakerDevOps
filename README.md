@@ -1,116 +1,137 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Abubaker%20Imran&fontSize=60&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=6&section=header" width="100%"/>
 
-<a href="https://github.com/abubakerDevOps">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Data+Analytics+%26+Python+Intern+%40+Decodelabs;Data+Science+Student;Python+%7C+C%2FC%2B%2B+%7C+Java+%7C+EDA+%26+Statistics;Building+practical+data-driven+projects" alt="Typing SVG" />
-</a>
+<br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black)
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=32&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&height=50&lines=Abubaker+Imran" alt="Name" />
 
-<img src="https://komarev.com/ghpvc/?username=abubakerDevOps&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/abubakerDevOps?style=for-the-badge&color=7dd3fc&label=FOLLOWERS&logo=github" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=18&duration=2500&pause=700&color=94A3B8&center=true&vCenter=true&width=650&lines=Data+Analytics+%26+Python+Intern+%40+Decodelabs;Data+Science+Student+%7C+EDA+%26+Statistics;Turning+raw+data+into+decisions" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubakerimran)
+[![Email](https://img.shields.io/badge/-Email-0EA5E9?style=flat-square&logo=gmail&logoColor=white)](mailto:abubaker261142@gmail.com)
+[![Location](https://img.shields.io/badge/-Lahore%2C%20Pakistan-334155?style=flat-square&logo=googlemaps&logoColor=white)](#)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-16A34A?style=flat-square&logo=checkmarx&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:0f172a&height=6&section=header" width="100%"/>
 
 </div>
 
 <br/>
 
-## 🧾 Who I Am
+## 👋 About Me
 
-```ts
-const abubaker = {
-  title: "Data Analytics & Python Intern @ Decodelabs",
-  stack: ["Python", "C", "C++", "Java", "HTML", "CSS"],
-  focus: ["Exploratory Data Analysis", "Statistics", "AI Tools"],
-  launchedProjects: ["TO-DO-TASK-", "Gym_Management_system-2-"],
-  certifications: [], // add yours here
-  status: "Data Science Student @ Forman Christian College",
-  openTo: ["Internships", "Collaborations", "Junior Data Roles"],
-};
-```
+I'm a Data Science student at **Forman Christian College** currently interning as a **Data Analytics & Python Intern at Decodelabs**. I enjoy turning messy data into clear, actionable insights — with a focus on exploratory data analysis, statistics, and building practical Python tools from the ground up.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Education**
+Data Science Student, Forman Christian College (A Chartered University)
+
+**💼 Currently**
+Data Analytics & Python Intern @ Decodelabs
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Focus Areas**
+Exploratory Data Analysis · Statistics · Applied Python
+
+**🎯 Looking For**
+Internships & entry-level roles in Data Analytics / Data Science
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Skills
+
+<table>
+<tr>
+<td valign="top" width="25%"><b>Languages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java&perline=4"/>
+</td>
+<td valign="top" width="25%"><b>Web Fundamentals</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css&perline=4"/>
+</td>
+<td valign="top" width="25%"><b>Data & AI Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=sklearn,anaconda,tensorflow,pytorch,opencv&perline=5"/>
+</td>
+<td valign="top" width="25%"><b>Dev Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=4"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🚀 Featured Projects
 
-### 📝 TO-DO-TASK-
-Menu-driven Python To-Do List application demonstrating CRUD operations and core Python concepts.
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <a href="https://github.com/abubakerDevOps/TO-DO-TASK-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abubakerDevOps&repo=TO-DO-TASK-&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abubakerDevOps&repo=TO-DO-TASK-&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" width="100%"/>
 </a>
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Concepts | CRUD Operations, Control Flow, Functions |
-| Interface | Command-Line (Menu-driven) |
+**To-Do List Manager** — a menu-driven CLI application demonstrating clean CRUD logic and core Python fundamentals.
 
-🔗 [Code](https://github.com/abubakerDevOps/TO-DO-TASK-)
+`Python` · `CLI` · `CRUD`
 
-<br/>
+[View Code →](https://github.com/abubakerDevOps/TO-DO-TASK-)
 
-### 🏋️ Gym_Management_system-2-
-Gym management system built with a Tkinter-based graphical user interface.
+</td>
+<td width="50%" valign="top">
 
 <a href="https://github.com/abubakerDevOps/Gym_Management_system-2-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abubakerDevOps&repo=Gym_Management_system-2-&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abubakerDevOps&repo=Gym_Management_system-2-&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" width="100%"/>
 </a>
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| GUI | Tkinter |
-| Domain | Gym / Membership Management |
+**Gym Management System** — a desktop app with a Tkinter GUI for managing gym memberships and operations.
 
-🔗 [Code](https://github.com/abubakerDevOps/Gym_Management_system-2-)
+`Python` · `Tkinter` · `Desktop GUI`
 
-<br/>
+[View Code →](https://github.com/abubakerDevOps/Gym_Management_system-2-)
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Skills](https://skillicons.dev/icons?i=py,c,cpp,java)
-
-**Frontend**
-
-![Skills](https://skillicons.dev/icons?i=html,css)
-
-**AI / Data Tools**
-
-![Skills](https://skillicons.dev/icons?i=sklearn,anaconda)
-
-**Dev Tools**
-
-![Skills](https://skillicons.dev/icons?i=git,github,vscode)
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abubakerDevOps&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakerDevOps&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api?username=abubakerDevOps&show_icons=true&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakerDevOps&layout=compact&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=abubakerDevOps&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=abubakerDevOps&theme=tokyonight&border=0ea5e9&ring=0ea5e9&fire=0ea5e9&background=0f172a" width="60%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=abubakerDevOps&no-frame=true&no-bg=true&theme=nord" width="80%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakerDevOps&theme=nord&bg_color=00000000&color=7dd3fc&line=7dd3fc&point=ffffff" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abubakerDevOps&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" width="80%"/>
 
 </div>
 
 <br/>
 
-## 🤝 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubakerimran)
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:abubaker261142@gmail.com)
+## 📬 Let's Connect
+
+I'm actively looking for internship and entry-level data opportunities — feel free to reach out.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubakerimran)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubaker261142@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:0f172a&height=6&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.com/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
