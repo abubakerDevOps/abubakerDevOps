@@ -106,7 +106,7 @@ print(me.say_hi())
 <td width="50%" valign="top">
 
 <a href="https://github.com/abubakerDevOps/TO-DO-TASK-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abubakerDevOps&repo=TO-DO-TASK-&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=abubakerDevOps&repo=TO-DO-TASK-&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" width="100%"/>
 </a>
 
 **To-Do List Manager** — a menu-driven CLI application demonstrating clean CRUD logic and core Python fundamentals.
@@ -119,7 +119,7 @@ print(me.say_hi())
 <td width="50%" valign="top">
 
 <a href="https://github.com/abubakerDevOps/Gym_Management_system-2-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abubakerDevOps&repo=Gym_Management_system-2-&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=abubakerDevOps&repo=Gym_Management_system-2-&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" width="100%"/>
 </a>
 
 **Gym Management System** — a desktop app with a Tkinter GUI for managing gym memberships and operations.
@@ -138,12 +138,12 @@ print(me.say_hi())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abubakerDevOps&show_icons=true&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakerDevOps&layout=compact&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=abubakerDevOps&show_icons=true&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a&hide_border=false" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abubakerDevOps&layout=compact&theme=tokyonight&border_color=0ea5e9&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=abubakerDevOps&theme=tokyonight&border=0ea5e9&ring=0ea5e9&fire=0ea5e9&background=0f172a" width="60%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=abubakerDevOps&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" width="80%"/>
+<img src="https://trophy.benkou.dev/?username=abubakerDevOps&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" width="80%"/>
 
 </div>
 
